@@ -1,0 +1,4 @@
+otext
+=====
+
+oracle text utils
